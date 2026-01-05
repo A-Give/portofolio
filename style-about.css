@@ -1,0 +1,31 @@
+body {
+    background: #0d1117;
+    color: white;
+    font-family: Poppins, sans-serif;
+}
+
+.about-container {
+    display: flex;
+    align-items: center;
+    padding: 50px;
+    background: #161b22;
+    margin: 50px auto;
+    width: 80%;
+    border-radius: 10px;
+}
+
+.about-image img {
+    width: 200px;
+    border-radius: 50%;
+    margin-right: 30px;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background: #58a6ff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
